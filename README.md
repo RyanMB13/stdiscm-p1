@@ -3,6 +3,7 @@
 Build and Run Instructions
 
 You can compile and run each variant manually from the Terminal.
+
 	1.	Open the Terminal and navigate to a variant folder, for example:
         cd "Variant 1 — Range Split + Immediate Print"
 
