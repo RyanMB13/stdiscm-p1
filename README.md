@@ -19,8 +19,8 @@ Each variant uses a config.txt file to define how many threads to use and how ma
 
 Example: config.txt
 # Prime Finder Configuration
-threads=8
-max_n=50000
+	threads=8
+	max_n=50000
 
 Parameters:
 	•	threads → number of worker threads to spawn (1–256)
