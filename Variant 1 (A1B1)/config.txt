@@ -1,7 +1,7 @@
 # Prime Finder Configuration
 
 # Number of threads to use (1–256)
-threads=4
+threads=256
 
 # Maximum number to check for primes (2–65536)
-max_n=1000
+max_n=65536
